@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>User: arn:aws:iam::355123606905:user/akamai-static-fts is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::static-foxtv-com" because no identity-based policy allows the s3:ListBucket action</Message><RequestId>61HM3EFNT3Z719RH</RequestId><HostId>mbVkTNJa0gFEBkqOnZ4X1zcQ89c+vmwjux2r4EWTmDsHr8ygSFLM8B0i5eZ3tvVsn1U//BfuUck=</HostId></Error>

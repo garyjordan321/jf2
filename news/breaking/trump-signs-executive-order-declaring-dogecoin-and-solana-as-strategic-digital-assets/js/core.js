@@ -1,0 +1,2 @@
+/*! updated; 12-12-2024 06:30 PM; Version; 7.9.1 **/
+!function(){(window.FNC&&window.FNC.GEO?true:false)||(c=(new Date).getTime(),document.write('<script src="https://static.foxtv.com/static/orion/scripts/core/utils/geo.js?cb='+c+'"><\/script>'));var t,c="https://static.foxtv.com/static/isa/core-app.js?v=20241212_1830";try{"fts"!==((t=document.querySelector('meta[name="prism.channel"]'))&&t.content?t.content:null)||/\/core\-app\.?(fts)/.test(c)||(c=c.replace(/\/core\-app\./,"/core-app.fts."))}catch(t){}document.write('<script src="'+c+'"><\/script>')}();

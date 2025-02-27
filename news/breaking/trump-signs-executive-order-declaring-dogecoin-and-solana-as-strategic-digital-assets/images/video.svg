@@ -1,0 +1,10 @@
+<svg id="video-overlay" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="video-overlay-path" class="cls-1" d="M64,0a64,64,0,1,0,64,64A64,64,0,0,0,64,0ZM92.23,66.51,52.18,88.08c-1.26.6-4.49-.12-4.49-2.07V42c0-1.75,3.29-2.67,4.55-2.08L92.23,62A3.22,3.22,0,0,1,92.23,66.51Z"/>
+</svg>
